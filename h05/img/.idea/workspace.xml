@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e4e4e50-6bb8-4e0c-a497-73e1ff9ee330" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h01/info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h02/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/aap/aap9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/img/zwemmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h03/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../h04/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieren.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inlog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../response.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tySc9TRh7YtGnIOsUxGZ620MRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e4e4e50-6bb8-4e0c-a497-73e1ff9ee330" name="Default Changelist" comment="" />
+      <created>1623739917990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623739917990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
